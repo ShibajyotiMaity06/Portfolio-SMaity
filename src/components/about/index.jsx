@@ -101,7 +101,7 @@ const AboutDetails = () => {
 
         <ItemLayout className="col-span-full lg:col-span-8 row-span-2 flex-col items-start">
           <h2 className="text-xl md:text-2xl text-left w-full capitalize">
-            Socially I'm here
+            Socially Im here
           </h2>
           <div className="flex space-x-4 mt-4">
             {links.map((link) => (
