@@ -93,7 +93,7 @@ const AboutDetails = () => {
         <ItemLayout className="col-span-full">
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=appwrite,aws,css,figma,firebase,git,github,graphql,html,js,jquery,mongodb,mysql,netlify,nextjs,nodejs,npm,react,redux,replit,sass,tailwind,threejs,vercel,vite,vscode,yarn`}
+            src={`https://skillicons.dev/icons?i=aws,css,figma,firebase,git,github,graphql,html,js,jquery,express,kafka,pytorch,sklearn,tensorflow,mongodb,mysql,nextjs,nodejs,npm,react,redux,tailwind,threejs,vercel,vite`}
             alt="CodeBucks"
             loading="lazy"
           />
