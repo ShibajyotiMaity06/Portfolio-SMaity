@@ -72,7 +72,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/Shibajyoti_Maity_Resume.pdf",
+    link: "/Shibajyoti Maity Resume.pdf",
     icon: "resume",
     newTab: true,
   },
